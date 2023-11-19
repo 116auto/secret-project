@@ -1,5 +1,28 @@
 # secret-project
 
+- Investigate vercel/swr
+- Setup vercel/turbo?
+- Apollo Client
+- Hasura
+- Apollo GraphQL
+- GraphQL CodeGen
+- Auth for Hasura
+- Prettier
+- AntDesing Components + Customize Theme
+- TailwindCSS?
+- CSS-In-JS: Emotion?
+- Temporal & GoLang
+- Tab in Golang
+- monorepo as Turborepo by Vercel
+- .editorconfig
+- husky?
+- pnpm VS npm
+- react-dnd
+- quill or editorjs.io
+- yjs
+
+
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
